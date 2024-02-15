@@ -1,0 +1,23 @@
+.start_request {
+  margin: auto;
+  width: 200px;
+  padding: 5px;
+  margin-top: 30px;
+
+  text-align: center;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.messages_text {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.response_txt {
+  color: green;
+}
+
+.error_txt {
+  color: red;
+}
